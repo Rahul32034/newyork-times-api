@@ -1,0 +1,16 @@
+a.navbar-brand{
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+  }
+  .nav-item{
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+  }
+  .lead{
+      font-family: 'Times New Roman', Times, serif;
+  }
+  .lead2{
+    font-size: 20px;
+}
